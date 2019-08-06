@@ -1,6 +1,6 @@
 ##Will Skippy Get Home?
 
-
+![Skippy](skippy_grid.png)
 
 Consider a grid (10x10 for instance).  A lost, blind kangaroo starts in position (0,0), shaded
 yellow and is trying to get home, which happens to be at cell (9,9), shaded green. Skippy’s strategy to find his way home is to take random hops either North, South, East or West without exiting the grid of course. 
